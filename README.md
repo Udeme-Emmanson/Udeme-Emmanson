@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Udeme-Emmanson
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Shell and C
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ALX projects
 - 📫 How to reach me .. udememmanson@gmail.com
 
 <!---
